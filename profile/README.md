@@ -1,39 +1,63 @@
 #  PulaFila
 
-Sistema web de pedidos antecipados para cantinas escolares, desenvolvido com o objetivo de eliminar filas e otimizar o atendimento.
+Sistema web de pedidos antecipados para cantinas escolares, desenvolvido com o objetivo de **eliminar filas** e **otimizar o atendimento**.
 
 ---
 
 ##  Sobre o Projeto
 
-O **PulaFilla** é um sistema que permite que alunos realizem pedidos de lanches de forma antecipada, diretamente pelo celular ou computador.
+O **PulaFila** é um sistema que permite que alunos, professores e funcionários realizem pedidos de lanches de forma antecipada, diretamente pelo celular ou computador.
 
-Com isso, o aluno apenas retira o pedido na cantina, evitando filas e melhorando a experiência no ambiente escolar.
+Com isso, o cliente precisa apenas retirar o pedido na cantina, evitando filas e melhorando significativamente a experiência no ambiente escolar.
 
-
-
-## 📱 Responsividade
-
-O sistema foi desenvolvido para funcionar em diferentes dispositivos:
-
-- 📱 Celulares  
-- 💻 Computadores  
+A proposta do sistema é tornar o processo mais ágil e eficiente, beneficiando tanto os consumidores quanto os responsáveis pela cantina.
 
 ---
 
-##  Design
+##  Problema
 
-- Interface simples e intuitiva  
-- Foco em usabilidade  
-- Cores baseadas em:
-  - Vermelho (principal)  
-  - Branco (fundo)  
-  - Cinza (detalhes)  
-- Inspirado em aplicativos modernos de delivery  
+Em ambientes escolares, é comum que:
+- Filas extensas consumam grande parte do intervalo  
+- Alunos e professores percam tempo aguardando atendimento  
+- O fluxo de pedidos seja desorganizado
+- Tempo é dinheiro 
 
 ---
 
-## ⚠️ Status do Projeto
+##  Solução
 
-🚧 Em desenvolvimento (Projeto de TCC)
+O **PulaFila** resolve esse problema permitindo:
 
+-  Realizar pedidos antecipadamente  
+-  Pagamento pelo site  
+-  Melhor organização dos pedidos  
+-  Melhor experiência para os usuários
+-  Aproveitamento de intervalo
+
+---
+
+##  Público-Alvo
+
+-  Alunos  
+-  Professores  
+-  Funcionários  
+-  Donos de cantina  
+
+---
+
+##  Funcionalidades
+
+- Cadastro e login de usuários  
+- Visualização do cardápio  
+- Realização de pedidos online  
+- Acompanhamento do status do pedido  
+- Gerenciamento de pedidos (para a cantina)  
+
+---
+
+
+##  Status do Projeto
+
+ Em desenvolvimento (Projeto de TCC)
+
+---
