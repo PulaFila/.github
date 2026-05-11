@@ -20,7 +20,7 @@ Em ambientes escolares, é comum que:
 - Filas extensas consumam grande parte do intervalo  
 - Alunos e professores percam tempo aguardando atendimento  
 - O fluxo de pedidos seja desorganizado
-- Tempo é dinheiro 
+
 
 ---
 
