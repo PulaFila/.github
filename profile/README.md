@@ -1,6 +1,12 @@
 <div align="center">
-
+  
 # PulaFila
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
 
 Sistema web de pedidos antecipados para cantinas escolares, desenvolvido com o objetivo de **eliminar filas** e **otimizar o atendimento**.
 
