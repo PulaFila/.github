@@ -93,7 +93,3 @@ O PulaFila está sendo desenvolvido e validado como projeto de TCC. Algumas func
 Desenvolvido para facilitar o atendimento em cantinas escolares.
 
 </div>
-
-Desenvolvido para otimizar o atendimento em cantinas escolares.
-
-</div>
