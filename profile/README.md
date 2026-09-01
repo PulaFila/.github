@@ -1,102 +1,98 @@
 <div align="center">
-  
+
 # PulaFila
 
+### Seu lanche sem fila
+
+Sistema web desenvolvido para organizar pedidos em cantinas escolares, permitindo que clientes realizem pedidos antecipadamente e que a cantina gerencie produtos, estoque e pedidos em um único sistema.
+
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-
-
-Sistema web de pedidos antecipados para cantinas escolares, desenvolvido com o objetivo de **eliminar filas** e **otimizar o atendimento**.
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6.0.6-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
 </div>
 
 ---
 
-## Sobre o Projeto
+## Sobre o PulaFila
 
-O **PulaFila** é um sistema que permite que alunos, professores e funcionários realizem pedidos de lanches de forma antecipada, diretamente pelo celular ou computador.
+O **PulaFila** é um projeto desenvolvido como Trabalho de Conclusão de Curso na área de Desenvolvimento de Sistemas.
 
-Com isso, o cliente precisa apenas retirar o pedido na cantina, evitando filas e melhorando significativamente a experiência no ambiente escolar.
+A proposta surgiu a partir da percepção de problemas relacionados ao atendimento de cantinas escolares, principalmente durante períodos de maior movimento.
 
-A proposta do sistema é tornar o processo mais ágil e eficiente, beneficiando tanto os consumidores quanto os responsáveis pela cantina.
-
----
-
-## Problema
-
-Em ambientes escolares, é comum que:
-
-- Filas extensas consumam grande parte do intervalo  
-- Alunos e professores percam tempo aguardando atendimento  
-- O fluxo de pedidos seja desorganizado  
+O sistema busca organizar o processo de pedidos, permitindo que parte da compra seja realizada antecipadamente.
 
 ---
 
-## Solução
+## Como funciona
 
-O **PulaFila** resolve esse problema permitindo:
+### Cliente
 
-- Realizar pedidos antecipadamente  
-- Pagamento pelo site  
-- Melhor organização dos pedidos  
-- Melhor experiência para os usuários  
-- Aproveitamento de intervalo  
+O cliente pode:
 
----
+* acessar o cardápio;
+* consultar produtos;
+* adicionar itens ao carrinho;
+* realizar pedidos;
+* agendar pedidos;
+* acompanhar o status;
+* receber notificações;
+* retirar o pedido utilizando um código de segurança.
 
-## Público-Alvo
+### Cantina
 
-| Usuários |
-|---|
-| Alunos |
-| Professores |
-| Funcionários |
-| Donos de cantina |
+A cantina pode:
 
----
-
-## Funcionalidades
-
-| Funcionalidade | Descrição |
-|---|---|
-| Cadastro e login | Permite acesso ao sistema |
-| Cardápio digital | Visualização dos produtos |
-| Pedidos online | Realização de pedidos antecipados |
-| Status do pedido | Acompanhamento do preparo |
-| Gerenciamento | Controle de pedidos da cantina |
+* gerenciar produtos;
+* controlar estoque;
+* organizar pedidos;
+* cadastrar combos e cupons;
+* acompanhar informações por relatórios;
+* configurar períodos e datas de funcionamento;
+* administrar usuários autorizados.
 
 ---
 
-## Tecnologias Futuras
+## Tecnologias
 
-| Tecnologia | Objetivo |
-|---|---|
-| Aplicativo Mobile | Melhor experiência em celulares |
-| QR Code | Retirada rápida dos pedidos |
-| Sistema de Notificações | Avisos em tempo real |
-| Dashboard | Relatórios e métricas |
+| Tecnologia | Utilização                             |
+| ---------- | -------------------------------------- |
+| Python     | Linguagem principal                    |
+| Django     | Framework web                          |
+| HTML       | Estrutura das páginas                  |
+| CSS        | Estilização                            |
+| JavaScript | Interações                             |
+| Bootstrap  | Componentes e responsividade           |
+| SQLite     | Banco utilizado no desenvolvimento/MVP |
+| Git        | Controle de versão                     |
+| GitHub     | Colaboração e versionamento            |
 
 ---
 
 ## Repositórios
 
-| Repositório | Acesso |
-|---|---|
-| Documentação | [Acessar](https://github.com/PulaFila/Documentacao) |
+| Repositório                                                  | Descrição                     |
+| ------------------------------------------------------------ | ----------------------------- |
+| [Sistema PulaFila](https://github.com/PulaFila/web_PulaFila) | Código-fonte da aplicação     |
+| [Documentação](https://github.com/PulaFila/Documentacao)     | Documentação do projeto e TCC |
 
 ---
 
-## Status do Projeto
+## Status
 
-| Situação |
-|---|
-| Em desenvolvimento (Projeto de TCC) |
+🚧 **Em desenvolvimento**
+
+O PulaFila está sendo desenvolvido e validado como projeto de TCC. Algumas funcionalidades ainda estão em implementação, testes ou validação.
 
 ---
 
 <div align="center">
+
+**PulaFila — Seu lanche sem fila**
+
+Desenvolvido para facilitar o atendimento em cantinas escolares.
+
+</div>
 
 Desenvolvido para otimizar o atendimento em cantinas escolares.
 
